@@ -1,0 +1,39 @@
+Matchday,Date,Opposition,Venue,Home/Away,Result,Goals For,Goals Against,Points,Cumulative Points
+1,08/18/2024,Manchester City ,Stamford Bridge,Home,Loss,0,2,0,0
+2,08/25/2024,Wolverhampton Wanderers,Molineux Stadium,Away,Win,6,2,3,3
+3,09/01/2024,Crystal Palace,Stamford Bridge,Home,Draw,1,1,1,4
+4,09/14/2024,Bournemouth,Dean Court,Away,Win,1,0,3,7
+5,09/21/2024,West Ham United,London Stadium,Away,Win,3,0,3,10
+6,09/28/2024,Brighton and Hove Albion,Stamford Bridge,Home,Win,4,2,3,13
+7,10/06/2024,Nottingham Forest,Stamford Bridge,Home,Draw,1,1,1,14
+8,10/20/2024,Liverpool,Anfield,Away,Loss,1,2,0,14
+9,10/27/2024,Newcastle United,Stamford Bridge,Home,Win,2,1,3,17
+10,11/03/2024,Manchester United,Old Trafford,Away,Draw,1,1,1,18
+11,11/10/2024,Arsenal,Stamford Bridge,Home,Draw,1,1,1,19
+12,11/23/2024,Leicester City,King Power Stadium,Away,Win,2,1,3,22
+13,12/01/2024,Aston Villa,Stamford Bridge,Home,Win,3,0,3,25
+14,12/04/2024,Southampton,St Mary's Stadium,Away,Win,5,1,3,28
+15,12/08/2024,Tottenham Hotspur,Tottenham Hotspur Stadium,Away,Win,4,3,3,31
+16,12/15/2024,Brentford,Stamford Bridge,Home,Win,2,1,3,34
+17,12/22/2024,Everton,Goodison Park,Away,Draw,0,0,1,35
+18,12/26/2024,Fulham,Stamford Bridge,Home,Loss,1,2,0,35
+19,12/30/2024,Ipswich Town,Portman Road,Away,Loss,0,2,0,35
+20,01/04/2025,Crystal Palace,Selhurst Park,Away,Draw,1,1,1,36
+21,01/14/2025,Bournemouth,Stamford Bridge,Home,Draw,2,2,1,37
+22,01/20/2025,Wolverhampton Wanderers,Stamford Bridge,Home,Win,3,1,3,40
+23,01/25/2025,Manchester City ,Etihad Stadium,Away,Loss,1,3,0,40
+24,02/03/2025,West Ham United,Stamford Bridge,Home,Win,2,1,3,43
+25,02/14/2025,Brighton and Hove Albion,American Express Stadium,Away,Loss,0,3,0,43
+26,02/22/2025,Aston Villa,Villa Park,Away,Loss,1,2,0,43
+27,02/25/2025,Southampton,Stamford Bridge,Home,Win,4,0,3,46
+28,03/09/2025,Leicester City,Stamford Bridge,Home,Win,1,0,3,49
+29,03/16/2025,Arsenal,Emirates Stadium,Away,Loss,0,1,0,49
+30,04/03/2025,Tottenham Hotspur,Stamford Bridge,Home,Win,1,0,3,52
+31,04/06/2025,Brentford,Brentford Community Stadium,Away,Draw,0,0,1,53
+32,04/13/2025,Ipswich Town,Stamford Bridge,Home,Draw,2,2,1,54
+33,04/20/2025,Fulham,Craven Cottage,Away,Win,2,1,3,57
+34,04/26/2025,Everton,Stamford Bridge,Home,Win,1,0,3,60
+35,05/04/2025,Liverpool,Stamford Bridge,Home,Win,3,1,3,63
+36,05/11/2025,Newcastle United,St James Park,Away,Loss,0,2,0,63
+37,05/16/2025,Manchester United,Stamford Bridge,Home,Win,1,0,3,66
+38,05/25/2025,Nottingham Forest,City Ground,Away,Win,1,0,3,69
